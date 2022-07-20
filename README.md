@@ -1,2 +1,3 @@
-# first-repository
-skills++
+# leetcode SQL
+solutions
+
