@@ -1,3 +1,3 @@
-# leetcode SQL
-solutions
+# python practice
+
 
